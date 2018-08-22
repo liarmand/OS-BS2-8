@@ -1,0 +1,51 @@
+    1  mkdir ~/week1
+    2  cd ~/week1
+    3  man whoami
+    4  whoami
+    5   touch ex2.txt
+    6  history > ex2.txt
+    7  ls
+    8  touch ex1.txt
+    9  ls
+   10  ls /usr/bin | grep gcc | sort -r > ex1.txt
+   11   ls 
+   12  echo > ex1.txt
+   13  ls /usr/bin | grep gcc | sort -r > ex1.txt
+   14  cd ~
+   15  mkdir tmp
+   16  cd tmp
+   17  mkdir week1
+   18  cd week1/
+   19  echo > ex1.txt
+   20  cd 
+   21  cd ~/tmp
+   22  mkdir week1
+   23  cd /tmp
+   24  mkdir week1
+   25  cd week1
+   26  echo > ex1.txt
+   27  ls /usr/bin | grep gcc | sort -r > ex1.txt
+   28  echo > ex2.txt
+   29  history > ex2.txt
+   30  echo > ex3.sh
+   31  sh ex3.sh
+   32  gedit ~/week1/main.c
+   33  cd ~
+   34  gedit ~/week1/main.c
+   35  echo > main.c
+   36  cd week1
+   37  cd tmp
+   38  cd ~
+   39  cd tmp
+   40  cd week1
+   41  echo > main.c
+   42  cd /temp
+   43  cd ~ 
+   44  cd /temp
+   45  cd /tmp
+   46  cd week1
+   47  echo > main.c
+   48  gcc main.c -o ex4
+   49  gcc main.c -o ex4
+   50  ./ex4
+   51  history > ex2.txt
