@@ -8,12 +8,12 @@ int main(){
 	printf("Enter the string: ");
 	scanf("%s", inp_string);
 
-	//reversing string
+	//reversing & printing string
 	int loop;
 	for(loop = (int) strlen(inp_string) - 1; loop > -1; loop--)
 		printf("%c", inp_string[loop]);
-
-	//printing string
+	
 	printf("\n");
-
+	
+	return 0;
 }
