@@ -9,3 +9,5 @@ int main()
     }
     return 0;
 }
+
+//Equation for the number of processes: processes_numb = 2 ^ (loop_numb)
