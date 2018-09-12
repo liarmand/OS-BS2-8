@@ -14,3 +14,5 @@ int main()
             exit(0);
     }
 }
+
+//The program starts a new process with child process. PID of a child is the next possible number.
