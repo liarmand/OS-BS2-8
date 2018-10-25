@@ -1,0 +1,7 @@
+$ chmod -x _ex3.txt
+$ chmod 707 _ex3.txt
+$ chmod g=u _ex3.txt
+
+660 - owner reading and writing
+775 - reading and executing for all. Owner and group writing
+777 - Reading, writing and executing for all

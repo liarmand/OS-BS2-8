@@ -1,0 +1,8 @@
+file1
+./OS-BS2-8/week10/link
+./OS-BS2-8/week10/file1
+./OS-BS2-8/week10/file2
+file2
+./OS-BS2-8/week10/link
+./OS-BS2-8/week10/file1
+./OS-BS2-8/week10/file2
