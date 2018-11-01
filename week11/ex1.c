@@ -1,9 +1,9 @@
 #include <stdio.h>
+#include <fcntl.h>
+#include <string.h>
+#include <sys/mman.h>
 #include <sys/types.h>
 #include <sys/stat.h>
-#include <fcntl.h>
-#include <sys/mman.h>
-#include <string.h>
 
 int main() {
 	int aFile = open("ex1.txt", O_RDWR);
