@@ -1,0 +1,16 @@
+Output of programs:
+
+Pr1) 
+Hello
+Hello
+
+Pr2)
+Hello
+
+Program 1 puts the string "Hello" into buffer. 
+Fork gives us "Hello" in parent's and child's buffers.
+Printing "\n" makes each of them print buffer's content and end of line after.
+
+Program 2 puts the string "Hello\n" into buffer and instantaneously prints it. 
+Fork gives us emptiness in parent's and child's buffers.
+Printing "\n" makes each of them print end of line.
